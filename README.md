@@ -20,4 +20,7 @@ This project focuses on practicing modern HTML structure, CSS styling, and JavaS
 - JavaScript (ES6)
 - HTML Templates
 
+Deployment:
+This webpage is deployed to GitHub pages
 
+. Deploymen Link: https://github.com/Wahid2025-Fayeq/shping_card/edit/main/README.md
