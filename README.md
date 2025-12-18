@@ -23,8 +23,5 @@ This project focuses on practicing modern HTML structure, CSS styling, and JavaS
 Deployment:
 This webpage is deployed to GitHub pages
 
-<<<<<<< HEAD
-
-=======
 . Deploymen Link:[ https://github.com/Wahid2025-Fayeq/shping_card/edit/main/README.md](https://wahid2025-fayeq.github.io/shping_card/)
->>>>>>> c0e5a7c287703fdf584ee2451ea462d78cfc0701
+
